@@ -1,0 +1,43 @@
+# Dart and Flutter
+*.dart.js
+*.dart.js.map
+*.info.json
+*.js
+*.js.map
+.packages
+.pub/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pubspec.lock
+.idea/
+.vscode/
+*.iml
+
+# Programs folder
+programs/**/.dart_tool/
+programs/**/.flutter-plugins
+programs/**/.flutter-plugins-dependencies
+programs/**/.packages
+programs/**/.pub/
+programs/**/build/
+programs/**/.pub-cache
+programs/**/.pubspec.lock
+programs/**/.idea/
+programs/**/.vscode/
+programs/**/*.iml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Programs folder
+programs/**/node_modules/
+programs/**/npm-debug.log
+programs/**/yarn-error.log
+programs/**/.env

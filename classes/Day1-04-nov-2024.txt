@@ -1,0 +1,42 @@
+Flutter mobile app development
+
+1. Native
+Android - java/kotlin
+ios - objective c
+
+2. Hybrid
+React Native - react - javascript
+Flutter - google
+Dart - programming language
+Flutter SDK 
+
+Flutter - windows application,web application
+mobile application, back end api,database
+preferred is mobile app development
+Dart - C/c++/java/ java script
+api's 
+
+Independently download dart
+Download flutter sdk.. where dart is embedded into
+it
+
+dart --version
+flutter --version
+create dartprogramming folder
+create 1-gettingstarted.dart
+dart run 1-gettingstarted.dart
+
+dart create my-dart-app
+cd my-dart-app
+dart run
+dart test
+
+install extension dart
+
+list with objects
+crud operation
+
+
+
+
+

@@ -1,0 +1,46 @@
+1. Recap 
+Introduction to Flutter
+Mobile application development
+Android,ios
+Android mobile app - java,kotlin
+ios - objective c
+
+Web Application
+Mobile app development -android/ios
+back end - node,express,python -flask
+.net,java,spring boot
+hybrid mobile application development
+using same code base, you can build
+application for android,ios
+google material design
+
+flutter - sdk 
+which uses dart as the programming language
+
+download flutter
+dart and sdk
+
+Set the path upto bin
+
+Create a flutter project
+
+flutter create my_flutter_app
+cd my_flutter_app
+flutter run
+
+Sample example
+
+1. Converting temperature in degree Celsius to 
+Fahrenheit
+2. Calculation of simple interest
+
+Simple Calculator
+
+Enter a number 10
+Enter an operator +
+Enter another number 20
+<Calculate>
+10 + 20 = 30 
+
+
+

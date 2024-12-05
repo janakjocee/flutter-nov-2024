@@ -1,0 +1,75 @@
+Agenda:
+
+End to end application development
+1. Flutter as front end
+2. Node,express and mongodb as the backend
+
+Download flutter
+Dart - programming language
+flutter sdk - 
+
+steps for api development:
+1. create endtoend folder
+2. create api folder inside endtoend
+3. cd api
+4. open in visual studio code
+5. open terminal
+6. npm init
+7. npm i express body-parser cors mongodb
+
+steps for front end
+1. cd to endtoend folder
+2. flutter create ui
+3. cd ui
+4. open in visual studio code
+5. open pubspec.yaml file
+add http: ^0.13.3
+under the dependencies and save
+
+6. to create apk file
+
+flutter build apk --release
+
+o enable developer mode on your Android phone and run the APK file, follow these steps:
+
+Enable Developer Mode
+Open Settings on your Android phone.
+Scroll down and tap on "About phone".
+Find the "Build number" entry. It might be under "Software information" on some devices.
+Tap the "Build number" entry seven times. You will see a message that says "You are now a developer!" or "Developer mode has already been turned on".
+Go back to the main Settings menu.
+Scroll down and tap on "System" (or "Additional settings" on some devices).
+Tap on "Developer options".
+Enable "USB debugging" by toggling the switch.
+Install and Run the APK
+Connect your Android phone to your computer using a USB cable.
+
+Allow USB debugging on your phone when prompted.
+
+Open a terminal in Visual Studio Code.
+
+Run the following command to install the APK on your connected device:
+
+Alternatively, you can manually install the APK:
+
+Copy the APK file (app-release.apk) from flutter-apk to your phone.
+Open a file manager on your phone and navigate to the copied APK file.
+Tap on the APK file to install it. You might need to allow installations from unknown sources.
+
+Recap:
+
+1. Dart programming language
+2. flutter sdk - mobile and web application development
+data types,
+operators
+functions
+class and objects
+interface
+
+3. flutter create <project name>
+
+
+
+
+
+

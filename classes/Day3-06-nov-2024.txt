@@ -1,0 +1,46 @@
+Agenda:
+1. Recap - flutter - sdk
+dart programming language
+
+flutter create <projectname>
+2. CURD - Todos,Employee Master
+
+
+3. Interface API's
+
+jsonplaceholder.typicode.com
+
+To display todos
+https://jsonplaceholder.typicode.com/todos
+
+To display a todo using the id
+https://jsonplaceholder.typicode.com/todos/1
+
+http
+
+mobile app development
+
+backend - api - python flask,django, node,java spring boot
+
+
+https://jsonplaceholder.typicode.com/posts
+
+https://openweathermap.org/
+
+https://api.openweathermap.org/data/2.5/weather?q=bangalore&units=metric&appid=384db1ce93218e20fd384d3016372238
+
+https://dev.to/hackmamba/create-a-simple-stock-price-tracker-in-flutter-n0h
+
+
+
+
+
+
+
+
+
+
+
+
+
+

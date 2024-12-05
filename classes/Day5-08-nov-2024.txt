@@ -1,0 +1,17 @@
+Agenda:
+
+1. End to end
+Flutter,Node,express,mongo
+
+2. create endtoend
+3. create api inside endtoend
+4. cd api
+5. npm init
+6. npm i express body-parser cors
+7. create routes folder
+8. create index.js file inside api
+9. create user.js inside routes folder
+
+front end
+10. flutter create ui
+11. add the ui related files

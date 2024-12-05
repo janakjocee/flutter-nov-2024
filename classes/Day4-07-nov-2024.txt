@@ -1,0 +1,27 @@
+Agenda:
+
+1. Front end flutter
+flutter pub get
+2. Backend node,express,mongo db
+kaushalya.tech
+https://ekaushalya.kaushalya.tech/
+
+3. Download and install mongodb community edition
+https://www.mongodb.com/try/download/community
+4. Download and install mongodb compass
+https://www.mongodb.com/try/download/compass
+
+5. create endtoend folder
+inside this create api folder
+open api folder in visual studio code
+
+open terminal
+npm init
+
+npm i express
+npm i body-parser
+
+npm i cors
+download postman for windows
+
+
